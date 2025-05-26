@@ -22,10 +22,10 @@ main {
     /* height: 92vh; */
   }
   
-  body{
+  /* body{
     margin: 0;
     padding: 0px;
-  }
+  } */
   
   section.game-status {
     min-height: 45px;
