@@ -5,7 +5,7 @@
 ## 🔗 Live Demo
 
 👉 [Play Now](https://assembly-endgame-project.netlify.app/)  
-*(Replace the above link with your actual deployed URL)*
+
 
 ## 🔍 Features
 
