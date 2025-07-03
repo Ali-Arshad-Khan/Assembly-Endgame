@@ -22,27 +22,29 @@
 ## 🛠️ How to Run Locally
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/Ali-Arshad-Khan/Assembly-Endgame.git
    
    ```
 2. Navigate to the project directory:
+
    ```bash
    cd Assembly-Endgame
 
    ```
 3. Install the dependencies:
+
    ```bash
    npm install
 
    ```         
 4. Run the development server:
+
    ```bash
    npm run dev
 
    ``` 
-```
-
 
 ## 🙌 Contributing
 
